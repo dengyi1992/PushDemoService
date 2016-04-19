@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PushDemoService1</string>
+    <string name="title_activity_web">WebActivity</string>
+</resources>
